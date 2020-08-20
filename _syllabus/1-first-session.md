@@ -1,9 +1,12 @@
 ---
 week: 1
-day: September 1
+day: August 31, 2020
 title: First session
 tags: [hello]
 ---
+
+This is the first class.  We will set expectations and discuss goals.
+
 ### Surname, Name: _Book title_
 
 City: Publisher, 2017\. ISBN 123-45-678-9012-3.  
