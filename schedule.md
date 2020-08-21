@@ -2,7 +2,7 @@
 title: "Schedule"
 layout: page
 menuItem: "Schedule"
-menuPosition: 5
+menuPosition: 2
 ---
 
 # Tuesday, September 1
