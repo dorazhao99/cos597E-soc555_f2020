@@ -1,6 +1,6 @@
 ---
 title: "Final project"
-layout: home
+layout: page
 menuItem: "Final project"
 menuPosition: 4
 ---
