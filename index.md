@@ -1,7 +1,7 @@
 ---
 title: "Course name"
 layout: home
-menuItem: "Basic info"
+menuItem: "Home"
 menuPosition: 1
 ---
 
