@@ -6,11 +6,12 @@ menuPosition: 1
 ---
 
 <div class="jumbotron">
-  <h1 class="display-4">COS 597E/SOC 555: Limits to Prediction</h1>
+  <h1 class="display-4">Limits to Prediction</h1>
   <p class="lead">With enough data and the right algorithms does everything become predictable?</p>
   <ul>
+    <li>COS 597E/SOC 555, Princeton University, Fall 2020</li>
     <li><a href="https://www.cs.princeton.edu/~arvindn/">Arvind Narayanan</a> and <a href="https://www.princeton.edu/~mjs3/">Matthew Salganik</a></li>
-    <li>Princeton University, Fall 2020</li>
+    <li>Tuesday and Thursday, 11:00am - 12:20pm</li>
   </ul>
 </div>
 
