@@ -6,18 +6,13 @@ menuPosition: 1
 ---
 
 <div class="jumbotron">
-  <h1 class="display-4">Limits to Prediction</h1>
-  <p class="lead">With enough data does everything become predictable?</p>
+  <h1 class="display-4">COS 597E/SOC 555: Limits to Prediction</h1>
+  <p class="lead">With enough data and the right algorithms does everything become predictable?</p>
   <ul>
-    <li>COS XXX Limits to prediction</li>
+    <li><a href="https://www.cs.princeton.edu/~arvindn/">Arvind Narayanan</a> and <a href="https://www.princeton.edu/~mjs3/">Matthew Salganik</a></li>
     <li>Princeton University, Fall 2020</li>
   </ul>
 </div>
-
-
-Course:
-Instructors: [Arvind Narayanan](https://www.cs.princeton.edu/~arvindn/) and [Matthew Salganik](https://www.princeton.edu/~mjs3/)
-Time and location: Tuesday and Thursdays, 11:00am to 12:20pm ET on Zoom
 
 # Overview
 
@@ -30,5 +25,3 @@ Is everything predictable given enough data and powerful algorithms? This semina
 - Students will be able to evaluate the appropriateness of prediction as a scientific or policy goal.
 - Students will be able to make predictions about the future of prediction.
 - Students will be able to create new research that helps understand the limits of predictability.
-
-# Jumbotron test
