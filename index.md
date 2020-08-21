@@ -23,8 +23,3 @@ Is everything predictable given enough data and powerful algorithms? This semina
 - Students will be able to evaluate the appropriateness of prediction as a scientific or policy goal.
 - Students will be able to make predictions about the future of prediction.
 - Students will be able to create new research that helps understand the limits of predictability.
-
-
-# Assesements and grading
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est ultricies integer quis auctor. Turpis egestas integer eget aliquet nibh praesent tristique. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. At imperdiet dui accumsan sit. Donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. Urna neque viverra justo nec. Vestibulum mattis ullamcorper velit sed ullamcorper. Pretium viverra suspendisse potenti nullam ac. A lacus vestibulum sed arcu.
