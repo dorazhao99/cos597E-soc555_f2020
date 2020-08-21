@@ -104,6 +104,7 @@ a[href$='.pdf'] {
 	margin: 1rem 0;
 }
 
+/*
 @media screen and (min-width: 70rem) {
 	nav {
 		float: left;
@@ -120,16 +121,19 @@ a[href$='.pdf'] {
 		margin-bottom: 1rem;
 	}
 }
+*/
 
+/*
 nav ul, nav li {
 	list-style-type: none;
 	padding: 0;
 }
+*/
 
-nav .active a {
+/* nav .active a {
 	font-weight: bold;
 	text-decoration: none;
-}
+} */
 
 td.icon {
 	font-size: 3rem;
