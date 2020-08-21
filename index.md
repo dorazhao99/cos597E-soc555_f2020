@@ -4,11 +4,18 @@ layout: home
 menuItem: "Basic info"
 menuPosition: 1
 ---
-<h1>{{ site.courseName }}</h1>
 
-<img src="{{ site.baseurl }}/style/header.jpg" width="100%">
+<div class="jumbotron">
+  <h1 class="display-4">Limits to Prediction</h1>
+  <p class="lead">With enough data does everything become predictable?</p>
+  <ul>
+    <li>COS XXX Limits to prediction</li>
+    <li>Princeton University, Fall 2020</li>
+  </ul>
+</div>
 
-Course: Limits to Prediction
+
+Course:
 Instructors: [Arvind Narayanan](https://www.cs.princeton.edu/~arvindn/) and [Matthew Salganik](https://www.princeton.edu/~mjs3/)
 Time and location: Tuesday and Thursdays, 11:00am to 12:20pm ET on Zoom
 
@@ -25,11 +32,3 @@ Is everything predictable given enough data and powerful algorithms? This semina
 - Students will be able to create new research that helps understand the limits of predictability.
 
 # Jumbotron test
-
-<div class="jumbotron">
-  <h1 class="display-4">Hello, world!</h1>
-  <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
-  <hr class="my-4">
-  <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
-  <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
-</div>
