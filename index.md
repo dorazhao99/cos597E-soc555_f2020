@@ -23,3 +23,13 @@ Is everything predictable given enough data and powerful algorithms? This semina
 - Students will be able to evaluate the appropriateness of prediction as a scientific or policy goal.
 - Students will be able to make predictions about the future of prediction.
 - Students will be able to create new research that helps understand the limits of predictability.
+
+# Jumbotron test
+
+<div class="jumbotron">
+  <h1 class="display-4">Hello, world!</h1>
+  <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <hr class="my-4">
+  <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+  <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+</div>
