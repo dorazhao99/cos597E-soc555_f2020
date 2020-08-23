@@ -26,14 +26,56 @@ TBD: Simple questions of comprehension
 
 ### Thursday, September 10, Predicting geopolitical events (part 2)
 
-- Mandel and Barnes (2014) ["Accuracy of forecasts in strategic intelligence"](https://doi.org/10.1073/pnas.1406138111), _PNAS_.
-
 - Tetlock and Mellers (2014) ["Judging political judgment"](https://www.pnas.org/content/111/32/11574
 ), _PNAS_.
+
+- Mandel and Barnes (2014) ["Accuracy of forecasts in strategic intelligence"](https://doi.org/10.1073/pnas.1406138111), _PNAS_.
 
 - Risi, Sharma, Shah, Connelly, Watts. (2019) ["Predicting history"](https://doi.org/10.1038/s41562-019-0620-8), _Nature Human Behaviour_.
 
 Reading question:
-- Tetlock, Mandel and Barnes, and Risi et al. all to try to assess the predictability of geopolitical events.  Compare and contrast their approaches in terms of who is doing the predictions, what events are being predicted, and how the predictions are scored.
-- Risi et al. spend time understanding the similarities and differences between the PCI and SIC models, manually inspecting false positives and false negatives, and considering the possibility of incorrect "ground truth" labels.  What, if anything, is gained from going beyond the simple horse race between the PCI and SIC models?
-- Based on the results of these papers, how would you try to measure the difficulty of predicting geopolitical events? Do you notice any empirical patterns from these studies?
+1) Tetlock, Mandel and Barnes, and Risi et al. all to try to assess the predictability of geopolitical events.  Compare and contrast their approaches in terms of who is doing the predictions, what events are being predicted, and how the predictions are scored.
+2) Risi et al. spend time understanding the similarities and differences between the PCI and SIC models, manually inspecting false positives and false negatives, and considering the possibility of incorrect "ground truth" labels.  What, if anything, is gained from going beyond the simple horse race between the PCI and SIC models?
+3) Based on the results of these papers, how would you try to measure the difficulty of predicting geopolitical events? Do you notice any empirical patterns from these studies?
+
+### Tuesday, September 15
+
+### Thursday, September 17
+
+### Tuesday, September 22
+
+### Thursday, September 24
+
+### Tuesday, September 29
+
+### Thursday, October 1
+
+### Tuesday, October 6
+
+### Thursday, October 8
+
+### Tuesday, October 13, No class for fall break
+
+### Thursday, October 15
+
+### Tuesday, October 20
+
+### Thursday, October 22
+
+### Tuesday, October 27
+
+### Thursday, October 29
+
+### Tuesday, November 3
+
+### Thursday, November 5
+
+### Tuesday, November 10
+
+### Thursday, November 12
+
+### Tuesday, November 17
+
+### Thursday, November 19
+
+### Tuesday, November 24 (last day of class)
