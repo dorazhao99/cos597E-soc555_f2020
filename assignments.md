@@ -1,11 +1,11 @@
 ---
 title: Assignments
-layout: page
+layout: home
 menuItem: Assignments
 menuPosition: 6
 ---
 
-# Assignment 1, Expert forecasts of the 2020 US Election
+## Assignment 1, Expert forecasts of the 2020 US Election
 
 Pre-registration due: Monday, November 2, 2020 11:59pm ET
 Final results due: Tuesday, November 24, 2020 11am ET (before last class)
@@ -37,7 +37,7 @@ Here are some papers that might provide more ideas:
 
 - Nadeau, R., Dassonneville, R., Lewis-Beck, M., & Mongrain, P. (2019). [Are election results more unpredictable? A forecasting test](https://dx.doi.org/10.1017/psrm.2019.24). _Political Science Research and Methods_.
 
-# Assignment 2, Replication and extension of [Muchlinksi et al. (2016)](https://doi.org/10.1093/pan/mpv024): Random forest vs logistic regression
+## Assignment 2, Replication and extension of [Muchlinksi et al. (2016)](https://doi.org/10.1093/pan/mpv024): Random forest vs logistic regression
 
 Due: Friday, October 9, 2020 11:59pm ET (right before fall break begins)
 

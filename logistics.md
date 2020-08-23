@@ -1,6 +1,6 @@
 ---
 title: Logistics
-layout: page
+layout: home
 menuItem: Logistics
 menuPosition: 5
 ---

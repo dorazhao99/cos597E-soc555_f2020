@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-layout: page
+layout: home
 menuItem: "Schedule"
 menuPosition: 2
 ---
