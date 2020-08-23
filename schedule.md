@@ -17,14 +17,16 @@ TBD, Illusion of progress, hand?
 
 ### Tuesday, September 8, Predicting geopolitical events (part 1)
 
-Watch pre-read video
-
-Tetlock (2005) _Expert Political Judgement: How Good Is It? How Can We Know?_: [Chapter 1](https://www.jstor.org/stable/j.ctt7spbt.5), [Chapter 2](https://www.jstor.org/stable/j.ctt7spbt.6), [Methodological Appendix, Section I: Regional Forecasting Exercises, Chapters 2 and 3](https://www.jstor.org/stable/j.ctt7spbt.13), [Technical Appendix, Part A: Correspondence Indicators of Good Judgement](https://www.jstor.org/stable/j.ctt7spbt.14)
+- Watch pre-read video
+- Read assignment 1
+- Tetlock (2005) _Expert Political Judgement: How Good Is It? How Can We Know?_: [Chapter 1](https://www.jstor.org/stable/j.ctt7spbt.5), [Chapter 2](https://www.jstor.org/stable/j.ctt7spbt.6), [Methodological Appendix, Section I: Regional Forecasting Exercises, Chapters 2 and 3](https://www.jstor.org/stable/j.ctt7spbt.13), [Technical Appendix, Part A: Correspondence Indicators of Good Judgement](https://www.jstor.org/stable/j.ctt7spbt.14)
 
 Reading question:
 TBD: Simple questions of comprehension
 
 ### Thursday, September 10, Predicting geopolitical events (part 2)
+
+Watch pre-read video
 
 - Tetlock and Mellers (2014) ["Judging political judgment"](https://www.pnas.org/content/111/32/11574
 ), _PNAS_.
