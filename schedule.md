@@ -36,9 +36,9 @@ Watch pre-read video
 - Risi, Sharma, Shah, Connelly, Watts. (2019) ["Predicting history"](https://doi.org/10.1038/s41562-019-0620-8), _Nature Human Behaviour_.
 
 Reading question:
-1) Tetlock, Mandel and Barnes, and Risi et al. all to try to assess the predictability of geopolitical events.  Compare and contrast their approaches in terms of who is doing the predictions, what events are being predicted, and how the predictions are scored.
-2) Risi et al. spend time understanding the similarities and differences between the PCI and SIC models, manually inspecting false positives and false negatives, and considering the possibility of incorrect "ground truth" labels.  What, if anything, is gained from going beyond the simple horse race between the PCI and SIC models?
-3) Based on the results of these papers, how would you try to measure the difficulty of predicting geopolitical events? Do you notice any empirical patterns from these studies?
+1. Tetlock, Mandel and Barnes, and Risi et al. all to try to assess the predictability of geopolitical events.  Compare and contrast their approaches in terms of who is doing the predictions, what events are being predicted, and how the predictions are scored.
+2. Risi et al. spend time understanding the similarities and differences between the PCI and SIC models, manually inspecting false positives and false negatives, and considering the possibility of incorrect "ground truth" labels.  What, if anything, is gained from going beyond the simple horse race between the PCI and SIC models?
+3. Based on the results of these papers, how would you try to measure the difficulty of predicting geopolitical events? Do you notice any empirical patterns from these studies?
 
 ### Tuesday, September 15
 
