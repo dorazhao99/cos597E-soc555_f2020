@@ -19,7 +19,12 @@ TBD, Illusion of progress, hand?
 
 - Watch pre-read video
 - Read assignment 1
-- Tetlock (2005) _Expert Political Judgement: How Good Is It? How Can We Know?_: [Chapter 1](https://www.jstor.org/stable/j.ctt7spbt.5), [Chapter 2](https://www.jstor.org/stable/j.ctt7spbt.6), [Methodological Appendix, Section I: Regional Forecasting Exercises, Chapters 2 and 3](https://www.jstor.org/stable/j.ctt7spbt.13), [Technical Appendix, Part A: Correspondence Indicators of Good Judgement](https://www.jstor.org/stable/j.ctt7spbt.14)
+- Tetlock (2005) _Expert Political Judgement: How Good Is It? How Can We Know?_:
+  - [Preface](https://www.jstor.org/stable/j.ctt7spbt.4)
+  - [Chapter 1, Quantifying the Unquantifiable](https://www.jstor.org/stable/j.ctt7spbt.5)
+  - [Chapter 2, The Ego-deflating Challenge of Radical Skepticism](https://www.jstor.org/stable/j.ctt7spbt.6)
+  - [Methodological Appendix, Section I: Regional Forecasting Exercises, Chapters 2 and 3](https://www.jstor.org/stable/j.ctt7spbt.13)
+  - [Technical Appendix, Part A: Correspondence Indicators of Good Judgement](https://www.jstor.org/stable/j.ctt7spbt.14)
 
 Reading question:
 TBD: Simple questions of comprehension
