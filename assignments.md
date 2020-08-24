@@ -41,6 +41,7 @@ Here are some papers that might provide more ideas:
 
 Due: Friday, October 9, 2020 11:59pm ET (right before fall break begins)
 
+
 1) Replicate the corrected version of [Muchlinksi et al. (2016)](https://doi.org/10.1093/pan/mpv024). Specifically you should make the separation plots (Fig 1), ROC curves (Fig 2), F1-scores (Fig 3), and Table 1 for the main models in the paper.
 
 2) Extend their result in some way.  Here are some suggestions, but please don’t feel limited to these ideas.
