@@ -23,21 +23,18 @@ TBD, Illusion of progress, hand?
   - [Preface](https://www.jstor.org/stable/j.ctt7spbt.4)
   - [Chapter 1, Quantifying the Unquantifiable](https://www.jstor.org/stable/j.ctt7spbt.5)
   - [Chapter 2, The Ego-deflating Challenge of Radical Skepticism](https://www.jstor.org/stable/j.ctt7spbt.6)
-  - [Methodological Appendix, Section I: Regional Forecasting Exercises, Chapters 2 and 3](https://www.jstor.org/stable/j.ctt7spbt.13)
+  - [Methodological Appendix, Section I: Regional Forecasting Exercises, Chapters 2 and 3 (skip section "Coding Free-flowing Thoughts")](https://www.jstor.org/stable/j.ctt7spbt.13)
   - [Technical Appendix, Part A: Correspondence Indicators of Good Judgement](https://www.jstor.org/stable/j.ctt7spbt.14)
+  - [Preface to the 2017 edition, pages xvii-xxii](https://www.jstor.org/stable/j.ctt1pk86s8.5)
 
-Reading question:
-TBD: Simple questions of comprehension
 
 ### Thursday, September 10, Predicting geopolitical events (part 2)
 
 Watch pre-read video
 
+- Mandel and Barnes (2014) ["Accuracy of forecasts in strategic intelligence"](https://doi.org/10.1073/pnas.1406138111), _PNAS_.
 - Tetlock and Mellers (2014) ["Judging political judgment"](https://www.pnas.org/content/111/32/11574
 ), _PNAS_.
-
-- Mandel and Barnes (2014) ["Accuracy of forecasts in strategic intelligence"](https://doi.org/10.1073/pnas.1406138111), _PNAS_.
-
 - Risi, Sharma, Shah, Connelly, Watts. (2019) ["Predicting history"](https://doi.org/10.1038/s41562-019-0620-8), _Nature Human Behaviour_.
 
 Reading question:
