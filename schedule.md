@@ -27,20 +27,23 @@ TBD, Illusion of progress, hand?
   - [Technical Appendix, Part A: Correspondence Indicators of Good Judgement](https://www.jstor.org/stable/j.ctt7spbt.14)
   - [Preface to the 2017 edition, pages xvii-xxii](https://www.jstor.org/stable/j.ctt1pk86s8.5)
 
+Reading question:
+1. Summarize in one paragraph the research design and main findings for the parts of _Expert Political Judgement_ that you read.
+2. What is the relationship between probability score, variability index, calibration index, and discrimination index? What do these terms capture about the relationship between a set of predictions and outcomes?
 
 ### Thursday, September 10, Predicting geopolitical events (part 2)
 
-Watch pre-read video
-
+- Watch pre-read video
 - Mandel and Barnes (2014) ["Accuracy of forecasts in strategic intelligence"](https://doi.org/10.1073/pnas.1406138111), _PNAS_.
 - Tetlock and Mellers (2014) ["Judging political judgment"](https://www.pnas.org/content/111/32/11574
 ), _PNAS_.
 - Risi, Sharma, Shah, Connelly, Watts. (2019) ["Predicting history"](https://doi.org/10.1038/s41562-019-0620-8), _Nature Human Behaviour_.
 
 Reading question:
-1. Tetlock, Mandel and Barnes, and Risi et al. all to try to assess the predictability of geopolitical events.  Compare and contrast their approaches in terms of who is doing the predictions, what events are being predicted, and how the predictions are scored.
-2. Risi et al. spend time understanding the similarities and differences between the PCI and SIC models, manually inspecting false positives and false negatives, and considering the possibility of incorrect "ground truth" labels.  What, if anything, is gained from going beyond the simple horse race between the PCI and SIC models?
-3. Based on the results of these papers, how would you try to measure the difficulty of predicting geopolitical events? Do you notice any empirical patterns from these studies?
+1. Tetlock, Mandel and Barnes, and Risi et al. all to try to assess the predictability of geopolitical events. Compare and contrast their approaches in terms of who is doing the predictions, what events are being predicted, and how the predictions are scored.
+2. Tetlock and Risi et al. have a comparison of what could be called simple and complex algorithms. What was the result of these comparisons?  What, if anything, does the relative performance tell us about the limits of prediction for these tasks?
+3. Tetlock, Mandel and Barnes, and Risi et al. all move beyond simply taking the data as given and measuring accuracy and simply running a “horserace” between approaches (e.g., human vs simple algorithm vs complex algorithm). What is your favorite thing that was learned from each of these analyses?  
+4. Based on the results of these papers, how would you try to measure the difficulty of predicting geopolitical events? Do you notice any empirical patterns from these studies?
 
 ### Tuesday, September 15
 
