@@ -42,7 +42,8 @@ Reading question:
 Reading question:
 1. Tetlock, Mandel and Barnes, and Risi et al. all to try to assess the predictability of geopolitical events. Compare and contrast their approaches in terms of who is doing the predictions, what events are being predicted, and how the predictions are scored.
 2. Tetlock and Risi et al. have a comparison of what could be called simple and complex algorithms. What was the result of these comparisons?  What, if anything, does the relative performance tell us about the limits of prediction for these tasks?
-3. Tetlock, Mandel and Barnes, and Risi et al. all move beyond simply taking the data as given and measuring accuracy and simply running a “horserace” between approaches (e.g., human vs simple algorithm vs complex algorithm). What is your favorite thing that was learned from each of these analyses?  
+3. Tetlock, Mandel and Barnes, and Risi et al. all move beyond simply taking the data as given and
+ measuring accuracy and simply running a “horserace” between approaches (e.g., human vs simple algorithm vs complex algorithm). What is your favorite thing that was learned from each of these analyses?  
 4. Based on the results of these papers, how would you try to measure the difficulty of predicting geopolitical events? Do you notice any empirical patterns from these studies?
 
 ### Tuesday, September 15
@@ -86,3 +87,22 @@ Reading question:
 ### Thursday, November 19
 
 ### Tuesday, November 24 (last day of class)
+
+
+#### Reading that will be assigned
+
+- Muchlinski et al. (2016) ["Comparing Random Forest with Logistic Regression for Predicting Class-Imbalanced Civil War Onset Data"](https://doi.org/10.1093/pan/mpv024), _Political Analysis_.
+- Neunhoeffer and Sternberg (2019) ["How Cross-Validation Can Go Wrong and What to Do About It"](https://www.cambridge.org/core/journals/political-analysis/article/how-crossvalidation-can-go-wrong-and-what-to-do-about-it/CA8C4B470E27C99892AB978CE0A3AE29), _Political Analysis_.
+- Wang (2019) ["Comparing Random Forest with Logistic Regression for Predicting Class-Imbalanced Civil War Onset Data: A Comment"](https://www.cambridge.org/core/journals/political-analysis/article/comparing-random-forest-with-logistic-regression-for-predicting-classimbalanced-civil-war-onset-data-a-comment/B62CC1DA390C58435004D4C5D56DBF71), _Political Analysis_.
+Heuberger (2019) ["Insufficiencies in Data Material: A Replication Analysis of Muchlinski, Siroky, He, and Kocher (2016)"](https://www.cambridge.org/core/journals/political-analysis/article/insufficiencies-in-data-material-a-replication-analysis-of-muchlinski-siroky-he-and-kocher-2016/DCFFD3F8F23604794ABE615F10C42FA4), _Political Analysis_.
+Muchlinski et al. (2019) ["Seeing the Forest through the Trees"](https://www.cambridge.org/core/journals/political-analysis/article/seeing-the-forest-through-the-trees/E717D15F10CC4F979EDC35C0CB9B55C1), _Political Analysis_.
+
+- Cederman and Weidmann (2017) ["Predicting armed conflict: Time to adjust our expectations"](https://dx.doi.org/10.1126/science.aal4483), _Science_.
+- Gartzke (1999) ["War is in the error term"](https://www.cambridge.org/core/journals/international-organization/article/war-is-in-the-error-term/45964C242DA8AFD93AFD2B1750FAF4D0), _International Organization_.
+- Coletta and Gatzke (2003) ["Testing War In the Error Term"]( https://doi.org/10.1017/S0020818303572083), _International Organization_.
+- Ward, Greenhill, and Bakke (2010) ["The perils of policy by p-value: Predicting civil conflicts"](https://doi.org/10.1177/0022343309356491), _Journal of Peace Research_.
+
+- Garip (2020) ["What failure to predict life outcomes can teach us"](https://doi.org/10.1073/pnas.2003390117), _PNAS_.
+- Salganik et al. (2020) ["Measuring the predictability of life outcomes with a scientific mass collaboration"](https://doi.org/10.1073/pnas.1915006117), _PNAS_.
+- Salganik, Maffeo, and Rudin (2020) ["Prediction, Machine Learning, and Individual Lives: an Interview with Matthew Salganik"](https://doi.org/10.1162/99608f92.eecdfa4e)
+- Kosinksi, Stilwell, and Grapel (2013) ["Private traits and attributes are predictable from digital records of human behavior"](https://doi.org/10.1073/pnas.1218772110), _PNAS_.
