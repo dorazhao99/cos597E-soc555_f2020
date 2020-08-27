@@ -9,11 +9,12 @@ menuPosition: 2
 
 No required reading before class.
 
-After class: Course pre-read by Arvind Narayanan and Matthew Salganik
-
 ### Thursday, September 3: Supervised learning (maybe?)
 
-TBD, Illusion of progress, hand?
+- Pre-read by Arvind Narananan and Matthew Salganik
+- Breiman (2001) ["Statistical Modeling: The Two Cultures"](https://projecteuclid.org/euclid.ss/1009213726), _Statistical Science_.
+- Hand (2006) ["Classifier Technology and the Illusion of Progress"](https://projecteuclid.org/euclid.ss/1149600839), _Statistical Science_.
+
 
 ### Tuesday, September 8, Predicting geopolitical events (part 1)
 
