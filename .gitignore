@@ -1,6 +1,4 @@
 _site/*
-slides/.DS_Store
-slides/figures/.DS_Store
 *.toc
 *.snm
 *.gz
@@ -8,3 +6,4 @@ slides/figures/.DS_Store
 *.nav
 *.out
 *.aux
+*.DS_Store
