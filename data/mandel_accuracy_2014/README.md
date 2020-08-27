@@ -8,6 +8,6 @@ Here are the fields:
 - Forecast: Predicted probability by analyst (0, 0.1, 0.25, 0.4, 0.5, 0.6, 0.75, 0.9, 1)
 - Outcome: Whether the outcome happened (1 = Yes, 0 = No)
 
-Mandel and Barnes (2014)](https://doi.org/10.1073/pnas.1406138111) provide more information about how each variable is defined.
+[Mandel and Barnes (2014)](https://doi.org/10.1073/pnas.1406138111) provide more information about how each variable is defined.
 
 Note: To make this data a bit easier to work with, I've removed some columns and converted the outcome column from a string to a number. You can access the original data [here](https://www.pnas.org/content/early/2014/07/10/1406138111/tab-figures-data).
