@@ -19,7 +19,7 @@ No required reading before class.
 ### Tuesday, September 8, Predicting geopolitical events (part 1)
 
 - Watch [pre-read video](https://youtu.be/BSm_sPnI8DI)
-- Read assignment 1
+- Read [assignment 1](https://msalganik.github.io/cos597E-soc555_f2020/assignments.html#assignment-1-forecasts-of-the-2020-us-election)
 - Tetlock (2005) _Expert Political Judgement: How Good Is It? How Can We Know?_:
   - [Preface](https://www.jstor.org/stable/j.ctt7spbt.4)
   - [Chapter 1, Quantifying the Unquantifiable](https://www.jstor.org/stable/j.ctt7spbt.5)
