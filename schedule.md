@@ -18,7 +18,7 @@ No required reading before class.
 
 ### Tuesday, September 8, Predicting geopolitical events (part 1)
 
-- Watch pre-read video
+- Watch [pre-read video](https://youtu.be/BSm_sPnI8DI)
 - Read assignment 1
 - Tetlock (2005) _Expert Political Judgement: How Good Is It? How Can We Know?_:
   - [Preface](https://www.jstor.org/stable/j.ctt7spbt.4)
@@ -34,7 +34,7 @@ Reading question:
 
 ### Thursday, September 10, Predicting geopolitical events (part 2)
 
-- Watch pre-read video
+- Watch [pre-read video](https://youtu.be/wMeXVE4Mdzk)
 - Mandel and Barnes (2014) ["Accuracy of forecasts in strategic intelligence"](https://doi.org/10.1073/pnas.1406138111), _PNAS_.
 - Tetlock and Mellers (2014) ["Judging political judgment"](https://www.pnas.org/content/111/32/11574
 ), _PNAS_.
