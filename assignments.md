@@ -14,7 +14,7 @@ This activity will give you practice:
 
 Tetlock (2005) evaluated the predictions of experts by creating a forecasting tournament that asked questions about the probabilities that the event will take place across many domains. Then, he compared those estimated probabilities to the true outcome of the events. In this activity, your group will create your own forecasting tournament around the 2020 US election, pre-register your design, and then submit your results. Like Tetlock's project, you should have multiple approaches to making predictions and you should have each approach make predictions for several events.
 
-### schedule
+### Schedule
 
 - Form groups: Thursday, September 17, 2020 at 5pm ET
 - Pre-registration due: Monday, November 2, 2020 11:59pm ET
@@ -46,8 +46,6 @@ If you find other papers that are helpful, please share them with us.
 
 ## Assignment 2, Replication and extension of [Muchlinksi et al. (2016)](https://doi.org/10.1093/pan/mpv024): Random forest vs logistic regression
 
-Due: Friday, October 9, 2020 11:59pm ET (right before fall break begins)
-
 1. Replicate the corrected version of [Muchlinksi et al. (2016)](https://doi.org/10.1093/pan/mpv024). Specifically you should make the separation plots (Fig 1), ROC curves (Fig 2), F1-scores (Fig 3), and Table 1 for the main models in the paper.
 
 2. Extend their result in some way. Here are some suggestions, but please don’t feel limited to these ideas.
@@ -57,3 +55,7 @@ Due: Friday, October 9, 2020 11:59pm ET (right before fall break begins)
 - Compare the performance of in-sample and out-of-sampling predictions for the models.
 - Train the models on one part of the world and then attempt to use them to predict civil wars in a different part of the world? Which models generalize better?
 - Explore alternative approaches to cross-validation, beyond those proposed in [Neunhoeffer and Sternberg (2019)](https://doi.org/10.1017/pan.2018.39). The cross-validation was organized around country-years. Do cross-validation where you drop out years or drop out countries. Do the results change? How do you think cross-validation should be done for this research question? How does the relative performance of the models vary by the year used to separate training and test sets. In footnote 2, [Muchlinksi et al. (2019)](https://doi.org/10.1017/pan.2018.45) argue that 1989 is a particularly unusual year.
+
+### Schedule
+
+Due: Friday, October 9, 2020 11:59pm ET (right before fall break begins)
