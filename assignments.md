@@ -7,6 +7,7 @@ menuPosition: 6
 
 ## Assignment 1, Forecasts of the 2020 US Election
 
+Form groups: Thursday, Sept 17, 2020 at 5pm ET
 Pre-registration due: Monday, November 2, 2020 11:59pm ET
 Final results due: Tuesday, November 24, 2020 11am ET (before last class)
 
@@ -18,6 +19,10 @@ This activity will give you practice:
 Tetlock (2005) evaluated the predictions of experts by creating a forecasting tournament that asked questions about the probabilities that the event will take place across many domains. Then, he compared those estimated probabilities to the true outcome of the events. In this activity, your group will create your own forecasting tournament around the 2020 US election, pre-register your design, and then submit your results. Like Tetlock's project, you should have multiple approaches to making predictions and you should have each approach make predictions for several events.
 
 ### Helpful information
+
+#### Group formation process
+
+Coming soon
 
 #### Pre-registration
 
