@@ -28,8 +28,6 @@ Because some people may have to miss class due to COVID, we will record the Zoom
 
 # Camera policy
 
-Your camera should be on by default. We have this policy because we think it leads to more engaging and effective discussions, and hence better learning.
-
-If for some reason you need to turn your camera off for a specific class meeting, just contact both instructors before class, and you can keep your camera off (no questions asked).
+Your camera should be on by default. We have this policy because we think it leads to more engaging and effective discussions, and hence better learning. If for some reason you need to turn your camera off for a specific class meeting, just contact both instructors before class, and you can keep your camera off (no questions asked).
 
 We recognize that it may be more difficult for some students to comply with this policy. If there are reasons it will be difficult for you to have your camera on regularly, please contact both instructors and we can try to find a solution.
