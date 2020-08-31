@@ -7,16 +7,18 @@ menuPosition: 6
 
 ## Assignment 1, Forecasts of the 2020 US Election
 
-Form groups: Thursday, Sept 17, 2020 at 5pm ET
-Pre-registration due: Monday, November 2, 2020 11:59pm ET
-Final results due: Tuesday, November 24, 2020 11am ET (before last class)
-
 This activity will give you practice:
 - Developing a research question about prediction
 - Picking a measure of predictive performance
 - Pre-registering research projects
 
 Tetlock (2005) evaluated the predictions of experts by creating a forecasting tournament that asked questions about the probabilities that the event will take place across many domains. Then, he compared those estimated probabilities to the true outcome of the events. In this activity, your group will create your own forecasting tournament around the 2020 US election, pre-register your design, and then submit your results. Like Tetlock's project, you should have multiple approaches to making predictions and you should have each approach make predictions for several events.
+
+### schedule
+
+- Form groups: Thursday, September 17, 2020 at 5pm ET
+- Pre-registration due: Monday, November 2, 2020 11:59pm ET
+- Final results due: Tuesday, November 24, 2020 11am ET (before last class meeting)
 
 ### Helpful information
 
@@ -34,6 +36,7 @@ There is a large literature about forecasting elections. Here are some rough ide
 
 - Hypotheses about different types of elections (e.g., are people better at predicting House races or Senate races?)
 - Hypotheses about how predictions change as the election approaches
+- Hypotheses about experts vs simple algorithms vs complex algorithms
 - Hypotheses about the accuracy of different approaches to prediction (e.g., individuals vs teams)
 
 Here are some papers that might provide more ideas:
