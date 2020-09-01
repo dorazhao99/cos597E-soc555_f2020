@@ -17,7 +17,7 @@ Some days the main activity might be to discuss a series of questions about the 
 
 ## Office hours
 
-- Professor Narayanan: TBD (zoom link available on Canvas)
+- Professor Narayanan: TBD
 - Professor Salganik:
   - Friday, September 4, noon - 1pm
   - Wednesday, September 9, 4 - 5pm
