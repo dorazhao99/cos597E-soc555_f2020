@@ -12,6 +12,7 @@ menuPosition: 1
     <li>COS 597E/SOC 555, Princeton University, Fall 2020</li>
     <li><a href="https://www.cs.princeton.edu/~arvindn/">Arvind Narayanan</a> and <a href="https://www.princeton.edu/~mjs3/">Matthew Salganik</a></li>
     <li>Tuesday and Thursday, 11:00am - 12:20pm</li>
+    <li><a href="https://github.com/msalganik/cos597E-soc555_f2020">GitHub</a>, <a href="https://piazza.com/class/keijl4wcxsu75p">Piazza</a>, <a href="https://princeton.instructure.com/courses/595">Canvas</a></li>
   </ul>
 </div>
 
