@@ -29,7 +29,7 @@ For office hours, please use the same Zoom link that we use for class. If you ar
 
 ## Recording classes
 
-Because some people may have to miss class due to COVID, we will record the Zoom meetings, and post them on the class Canvas page where they can be watched by other members of our class.  We will not post these videos publicly, and we will delete them once we have submitted final grades for the course.
+Because some people may have to miss class due to COVID, we will record the Zoom meetings, and post them on [Piazza](https://piazza.com/princeton/fall2020/cos597esoc555/resources) where they can be watched by other members of our class.  We will not post these videos publicly, and we will delete them once we have submitted final grades for the course.
 
 ## Camera policy
 
