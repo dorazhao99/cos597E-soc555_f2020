@@ -18,9 +18,12 @@ Some days the main activity might be to discuss a series of questions about the 
 # Office hours
 
 - Professor Narayanan: TBD (zoom link available on Canvas)
-- Professor Salganik: TBD (zoom link available on Canvas)
+- Professor Salganik:
+  - Friday, September 4, noon - 1pm
+  - Wednesday, September 9, 4 - 5pm
+  - More coming soon
 
-If you are not able to attend office hours, please email one of the instructors to schedule a meeting.
+For office hours, please use the same Zoom link that we use for class. If you are not able to attend office hours, please email one of the instructors to schedule a meeting.
 
 # Recording classes
 
