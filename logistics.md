@@ -17,11 +17,13 @@ Some days the main activity might be to discuss a series of questions about the 
 
 ## Office hours
 
-- Professor Narayanan: TBD
+- Professor Narayanan: Mondays 2:30 — 3:30 pm.
 - Professor Salganik:
   - Friday, September 4, noon - 1pm
   - Wednesday, September 9, 4 - 5pm
   - More coming soon
+
+(All times U.S. Eastern time.)
 
 For office hours, please use the same Zoom link that we use for class. If you are not able to attend office hours, please email one of the instructors to schedule a meeting.
 
