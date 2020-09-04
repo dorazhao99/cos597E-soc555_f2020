@@ -46,7 +46,11 @@ Reading question (these questions are designed to help you think about the readi
 
 ### Tuesday, September 15: Computer vision (part 1)
 
+- Coming soon
+
 ### Thursday, September 17: Computer vision (part 2)
+
+- Coming soon
 
 ### Tuesday, September 22: Armed conflict (part 1)
 
@@ -58,14 +62,18 @@ Reading question (these questions are designed to help you think about the readi
 ### Thursday, September 24: Armed conflict (part 2)
 
 - Muchlinski et al. (2016) ["Comparing Random Forest with Logistic Regression for Predicting Class-Imbalanced Civil War Onset Data"](https://doi.org/10.1093/pan/mpv024), _Political Analysis_.
-- Neunhoeffer and Sternberg (2019) ["How Cross-Validation Can Go Wrong and What to Do About It"](https://www.cambridge.org/core/journals/political-analysis/article/how-crossvalidation-can-go-wrong-and-what-to-do-about-it/CA8C4B470E27C99892AB978CE0A3AE29), _Political Analysis_.
-- Wang (2019) ["Comparing Random Forest with Logistic Regression for Predicting Class-Imbalanced Civil War Onset Data: A Comment"](https://www.cambridge.org/core/journals/political-analysis/article/comparing-random-forest-with-logistic-regression-for-predicting-classimbalanced-civil-war-onset-data-a-comment/B62CC1DA390C58435004D4C5D56DBF71), _Political Analysis_.
-- Heuberger (2019) ["Insufficiencies in Data Material: A Replication Analysis of Muchlinski, Siroky, He, and Kocher (2016)"](https://www.cambridge.org/core/journals/political-analysis/article/insufficiencies-in-data-material-a-replication-analysis-of-muchlinski-siroky-he-and-kocher-2016/DCFFD3F8F23604794ABE615F10C42FA4), _Political Analysis_.
-- Muchlinski et al. (2019) ["Seeing the Forest through the Trees"](https://www.cambridge.org/core/journals/political-analysis/article/seeing-the-forest-through-the-trees/E717D15F10CC4F979EDC35C0CB9B55C1), _Political Analysis_.
+- Neunhoeffer and Sternberg (2019) ["How Cross-Validation Can Go Wrong and What to Do About It"](https://doi.org/10.1017/pan.2018.39), _Political Analysis_.
+- Wang (2019) ["Comparing Random Forest with Logistic Regression for Predicting Class-Imbalanced Civil War Onset Data: A Comment"](https://doi.org/10.1017/pan.2018.40), _Political Analysis_.
+- Heuberger (2019) ["Insufficiencies in Data Material: A Replication Analysis of Muchlinski, Siroky, He, and Kocher (2016)"](https://doi.org/10.1017/pan.2018.43), _Political Analysis_.
+- Muchlinski et al. (2019) ["Seeing the Forest through the Trees"](https://doi.org/10.1017/pan.2018.45), _Political Analysis_.
 
 ### Tuesday, September 29: Online ads
 
+- Coming soon
+
 ### Thursday, October 1: Challenges with deploying predictive models in practice
+
+- Coming soon
 
 ### Tuesday, October 6: Social fads (part 1)
 
@@ -73,7 +81,6 @@ Reading question (these questions are designed to help you think about the readi
 - Salganik, Dodds, Watts (2006) ["Inequality and unpredictability in an artificial cultural market"](https://dx.doi.org/10.1126/science.1121066), _Science_.
 - Martin, Hofman, Sharma, Anderson, Watts (2016) ["Exploring Limits to Prediction in Complex Social Systems"](https://arxiv.org/abs/1602.01013), _WWW_.
 - Hofman, Sharma, Watts (2017) ["Prediction and explanation in social systems"](https://dx.doi.org/10.1126/science.aal3856), _Science_.
-
 
 ### Thursday, October 8: Social fads (part 2)
 
@@ -84,26 +91,42 @@ Reading question (these questions are designed to help you think about the readi
 
 ### Thursday, October 15: Methodological issues
 
+- Coming soon
+
 ### Tuesday, October 20: Weather, the Lorenz attractor
+
+- Coming soon
 
 ### Thursday, October 22: Weather, empirical verification
 
+- Coming soon
+
 ### Tuesday, October 27: Healthcare (part 1)
+
+- Coming soon
 
 ### Thursday, October 29: Healthcare (part 2)
 
+- Coming soon
+
 ### Tuesday, November 3: Disease models
 
+- Coming soon
+
 ### Thursday, November 5: Disease empirics
+
+- Coming soon
 
 ### Tuesday, November 10: Predictability of life trajectories
 
 - Garip (2020) ["What failure to predict life outcomes can teach us"](https://doi.org/10.1073/pnas.2003390117), _PNAS_.
 - Salganik et al. (2020) ["Measuring the predictability of life outcomes with a scientific mass collaboration"](https://doi.org/10.1073/pnas.1915006117), _PNAS_.
 - Salganik, Maffeo, and Rudin (2020) ["Prediction, Machine Learning, and Individual Lives: an Interview with Matthew Salganik"](https://doi.org/10.1162/99608f92.eecdfa4e) _Harvard Data Science Review_.
-
+- Salganik, Lundberg, Kindel, McLanahan. (2019) ["Introduction to the Special Collection on the Fragile Families Challenge"](https://doi.org/10.1177/2378023119871580), _Socius_.
 
 ### Thursday, November 12: Searching for dark matter
+
+- Read dark matter interviews, materials available from instructors
 
 ### Tuesday, November 17: Privacy and ethics (part 1)
 
