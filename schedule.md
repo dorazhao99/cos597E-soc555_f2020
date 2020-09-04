@@ -72,14 +72,13 @@ Reading question (these questions are designed to help you think about the readi
 - Hedstrom (2006) ["Experimental Macro Sociology: Predicting the Next Best Seller"](http://dx.doi.org/10.1126/science.1124707), _Science_.
 - Salganik, Dodds, Watts (2006) ["Inequality and unpredictability in an artificial cultural market"](https://dx.doi.org/10.1126/science.1121066), _Science_.
 - Martin, Hofman, Sharma, Anderson, Watts (2016) ["Exploring Limits to Prediction in Complex Social Systems"](https://arxiv.org/abs/1602.01013), _WWW_.
-- Hofman, Sharma, Watts (2017) ["Prediction and explanation in social systems"] _Science_.
+- Hofman, Sharma, Watts (2017) ["Prediction and explanation in social systems"](https://dx.doi.org/10.1126/science.aal3856), _Science_.
 
 
 ### Thursday, October 8: Social fads (part 2)
 
 - Goel, Hofman, Lahaie, Pennock, Watts. 2010. ["Predicting consumer behavior with Web search"](https://doi.org/10.1073/pnas.1005962107), _PNAS_.
 - Cheng, Adamic, Dow, Kleinberg, Leskovec (2014) ["Can cascades be predicted?"](https://doi.org/10.1145/2566486.2567997) _WWW_. <img src="{{site.url}}/images/closed.png" style="display: block; margin: auto;" />
-
 
 
 ### Tuesday, October 13: No class for fall break
