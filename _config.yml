@@ -15,11 +15,6 @@ docsUrl: ""
 # url where the student's grading info is kept
 gradingUrl: ""
 
-# url used for images
-site.url: https://msalganik.github.io/cos597E-soc555_f2020/
-
-
-
 # change only if you know what you are doing
 collections:
   syllabus:
