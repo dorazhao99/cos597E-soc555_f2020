@@ -16,7 +16,7 @@ docsUrl: ""
 gradingUrl: ""
 
 # url used for images
-url: https://msalganik.github.io/cos597E-soc555_f2020/
+site.url: https://msalganik.github.io/cos597E-soc555_f2020/
 
 # change only if you know what you are doing
 collections:
