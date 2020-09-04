@@ -11,21 +11,21 @@ No required reading before class.
 
 ### Thursday, September 3: Background
 
-- [Pre-read by Arvind Narananan and Matt Salganik]( https://msalganik.github.io/cos597E-soc555_f2020/class-materials/2020-09-03-background/limits-to-prediction-pre-read.pdf) <img src="https://msalganik.github.io/cos597E-soc555_f2020/images/open.png" style="height: 14px;" />
-- Breiman (2001) ["Statistical Modeling: The Two Cultures"](https://projecteuclid.org/euclid.ss/1009213726), _Statistical Science_. (Read article, skim comments and rejoinder)
-- Hand (2006) ["Classifier Technology and the Illusion of Progress"](https://projecteuclid.org/euclid.ss/1149600839), _Statistical Science_. (Read article, skim comments and rejoinder)
+- [Pre-read by Arvind Narananan and Matt Salganik]( https://msalganik.github.io/cos597E-soc555_f2020/class-materials/2020-09-03-background/limits-to-prediction-pre-read.pdf) <img src="https://msalganik.github.io/cos597E-soc555_f2020/images/open.png" style="display: inline; height: 14px;" />
+- Breiman (2001) ["Statistical Modeling: The Two Cultures"](https://projecteuclid.org/euclid.ss/1009213726), _Statistical Science_. (Read article, skim comments and rejoinder) <img src="https://msalganik.github.io/cos597E-soc555_f2020/images/open.png" style="display: inline; height: 14px;" />
+- Hand (2006) ["Classifier Technology and the Illusion of Progress"](https://projecteuclid.org/euclid.ss/1149600839), _Statistical Science_. (Read article, skim comments and rejoinder) <img src="https://msalganik.github.io/cos597E-soc555_f2020/images/open.png" style="display: inline; height: 14px;" />
 
 ### Tuesday, September 8: Predicting geopolitical events (part 1)
 
-- Watch [pre-read video](https://youtu.be/BSm_sPnI8DI)
-- Read [assignment 1](https://msalganik.github.io/cos597E-soc555_f2020/assignments.html#assignment-1-forecasts-of-the-2020-us-election)
+- Watch [pre-read video](https://youtu.be/BSm_sPnI8DI) <img src="https://msalganik.github.io/cos597E-soc555_f2020/images/open.png" style="display: inline; height: 14px;" />
+- Read [assignment 1](https://msalganik.github.io/cos597E-soc555_f2020/assignments.html#assignment-1-forecasts-of-the-2020-us-election) <img src="https://msalganik.github.io/cos597E-soc555_f2020/images/open.png" style="display: inline; height: 14px;" />
 - Tetlock (2005) _Expert Political Judgement: How Good Is It? How Can We Know?_:
-  - [Preface](https://www.jstor.org/stable/j.ctt7spbt.4)
-  - [Chapter 1, Quantifying the Unquantifiable](https://www.jstor.org/stable/j.ctt7spbt.5)
-  - [Chapter 2, The Ego-deflating Challenge of Radical Skepticism](https://www.jstor.org/stable/j.ctt7spbt.6)
-  - [Methodological Appendix, Section I: Regional Forecasting Exercises, Chapters 2 and 3 (skip section "Coding Free-flowing Thoughts")](https://www.jstor.org/stable/j.ctt7spbt.13)
-  - [Technical Appendix, Part A: Correspondence Indicators of Good Judgement](https://www.jstor.org/stable/j.ctt7spbt.14)
-  - [Preface to the 2017 edition, pages xvii-xxii](https://www.jstor.org/stable/j.ctt1pk86s8.5)
+  - [Preface](https://www.jstor.org/stable/j.ctt7spbt.4) <img src="https://msalganik.github.io/cos597E-soc555_f2020/images/closed.png" style="display: inline; height: 14px;" />
+  - [Chapter 1, Quantifying the Unquantifiable](https://www.jstor.org/stable/j.ctt7spbt.5) <img src="https://msalganik.github.io/cos597E-soc555_f2020/images/closed.png" style="display: inline; height: 14px;" />
+  - [Chapter 2, The Ego-deflating Challenge of Radical Skepticism](https://www.jstor.org/stable/j.ctt7spbt.6) <img src="https://msalganik.github.io/cos597E-soc555_f2020/images/closed.png" style="display: inline; height: 14px;" />
+  - [Methodological Appendix, Section I: Regional Forecasting Exercises, Chapters 2 and 3 (skip section "Coding Free-flowing Thoughts")](https://www.jstor.org/stable/j.ctt7spbt.13) <img src="https://msalganik.github.io/cos597E-soc555_f2020/images/closed.png" style="display: inline; height: 14px;" />
+  - [Technical Appendix, Part A: Correspondence Indicators of Good Judgement](https://www.jstor.org/stable/j.ctt7spbt.14) <img src="https://msalganik.github.io/cos597E-soc555_f2020/images/closed.png" style="display: inline; height: 14px;" />
+  - [Preface to the 2017 edition, pages xvii-xxii](https://www.jstor.org/stable/j.ctt1pk86s8.5) <img src="https://msalganik.github.io/cos597E-soc555_f2020/images/closed.png" style="display: inline; height: 14px;" />
 
 Reading question (these questions are designed to help you think about the reading, you don't need to submit written responses):
 1. Summarize in one paragraph the research design and main findings for the parts of _Expert Political Judgement_ that you read.
@@ -33,10 +33,10 @@ Reading question (these questions are designed to help you think about the readi
 
 ### Thursday, September 10: Predicting geopolitical events (part 2)
 
-- Watch [pre-read video](https://youtu.be/wMeXVE4Mdzk)
-- Mandel and Barnes (2014) ["Accuracy of forecasts in strategic intelligence"](https://doi.org/10.1073/pnas.1406138111), _PNAS_.
-- Tetlock and Mellers (2014) ["Judging political judgment"](https://www.pnas.org/content/111/32/11574), _PNAS_.
-- Risi, Sharma, Shah, Connelly, Watts. (2019) ["Predicting history"](https://doi.org/10.1038/s41562-019-0620-8), _Nature Human Behaviour_.
+- Watch [pre-read video](https://youtu.be/wMeXVE4Mdzk) <img src="https://msalganik.github.io/cos597E-soc555_f2020/images/open.png" style="display: inline; height: 14px;" />
+- Mandel and Barnes (2014) ["Accuracy of forecasts in strategic intelligence"](https://doi.org/10.1073/pnas.1406138111), _PNAS_. <img src="https://msalganik.github.io/cos597E-soc555_f2020/images/closed.png" style="display: inline; height: 14px;" />
+- Tetlock and Mellers (2014) ["Judging political judgment"](https://www.pnas.org/content/111/32/11574), _PNAS_. <img src="https://msalganik.github.io/cos597E-soc555_f2020/images/closed.png" style="display: inline; height: 14px;" />
+- Risi, Sharma, Shah, Connelly, Watts. (2019) ["Predicting history"](https://doi.org/10.1038/s41562-019-0620-8), _Nature Human Behaviour_. <img src="https://msalganik.github.io/cos597E-soc555_f2020/images/closed.png" style="display: inline; height: 14px;" />
 
 Reading question (these questions are designed to help you think about the reading, you don't need to submit written responses):
 1. Tetlock, Mandel and Barnes, and Risi et al. all to try to assess the predictability of geopolitical events. Compare and contrast their approaches in terms of who is doing the predictions, what events are being predicted, and how the predictions are scored.
