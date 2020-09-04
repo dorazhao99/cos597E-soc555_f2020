@@ -11,7 +11,7 @@ No required reading before class.
 
 ### Thursday, September 3: Background
 
-- [Pre-read by Arvind Narananan and Matt Salganik]( https://msalganik.github.io/cos597E-soc555_f2020/class-materials/2020-09-03-background/limits-to-prediction-pre-read.pdf) <img src="https://msalganik.github.io/cos597E-soc555_f2020/images/open.png" style="display: block; margin: auto;" />
+- [Pre-read by Arvind Narananan and Matt Salganik]( https://msalganik.github.io/cos597E-soc555_f2020/class-materials/2020-09-03-background/limits-to-prediction-pre-read.pdf) <img src="https://msalganik.github.io/cos597E-soc555_f2020/images/open.png" style="display: block; margin: auto; height: 10px;" />
 - Breiman (2001) ["Statistical Modeling: The Two Cultures"](https://projecteuclid.org/euclid.ss/1009213726), _Statistical Science_. (Read article, skim comments and rejoinder)
 - Hand (2006) ["Classifier Technology and the Illusion of Progress"](https://projecteuclid.org/euclid.ss/1149600839), _Statistical Science_. (Read article, skim comments and rejoinder)
 
