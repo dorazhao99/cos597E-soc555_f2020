@@ -78,8 +78,7 @@ Reading question (these questions are designed to help you think about the readi
 ### Thursday, October 8: Social fads (part 2)
 
 - Goel, Hofman, Lahaie, Pennock, Watts. 2010. ["Predicting consumer behavior with Web search"](https://doi.org/10.1073/pnas.1005962107), _PNAS_.
-
-- Cheng, Adamic, Dow, Kleinberg, Leskovec (2014) ["Can cascades be predicted?"](https://doi.org/10.1145/2566486.2567997) _WWW_.
+- Cheng, Adamic, Dow, Kleinberg, Leskovec (2014) ["Can cascades be predicted?"](https://doi.org/10.1145/2566486.2567997) _WWW_. <img src="{{site.url}}/images/closed.png" style="display: block; margin: auto;" />
 
 
 
