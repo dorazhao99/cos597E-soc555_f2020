@@ -11,7 +11,7 @@ No required reading before class.
 
 ### Thursday, September 3: Background
 
-- [Pre-read by Arvind Narananan and Matt Salganik]( https://msalganik.github.io/cos597E-soc555_f2020/class-materials/2020-09-03-background/limits-to-prediction-pre-read.pdf)
+- [Pre-read by Arvind Narananan and Matt Salganik]( https://msalganik.github.io/cos597E-soc555_f2020/class-materials/2020-09-03-background/limits-to-prediction-pre-read.pdf) <img src="{{site.url}}/images/open.png" style="display: block; margin: auto;" />
 - Breiman (2001) ["Statistical Modeling: The Two Cultures"](https://projecteuclid.org/euclid.ss/1009213726), _Statistical Science_. (Read article, skim comments and rejoinder)
 - Hand (2006) ["Classifier Technology and the Illusion of Progress"](https://projecteuclid.org/euclid.ss/1149600839), _Statistical Science_. (Read article, skim comments and rejoinder)
 
@@ -78,8 +78,7 @@ Reading question (these questions are designed to help you think about the readi
 ### Thursday, October 8: Social fads (part 2)
 
 - Goel, Hofman, Lahaie, Pennock, Watts. 2010. ["Predicting consumer behavior with Web search"](https://doi.org/10.1073/pnas.1005962107), _PNAS_.
-- Cheng, Adamic, Dow, Kleinberg, Leskovec (2014) ["Can cascades be predicted?"](https://doi.org/10.1145/2566486.2567997) _WWW_. <img src="{{site.url}}/images/closed.png" style="display: block; margin: auto;" />
-
+- Cheng, Adamic, Dow, Kleinberg, Leskovec (2014) ["Can cascades be predicted?"](https://doi.org/10.1145/2566486.2567997) _WWW_.
 
 ### Tuesday, October 13: No class for fall break
 
