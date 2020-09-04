@@ -15,7 +15,7 @@ No required reading before class.
 - Breiman (2001) ["Statistical Modeling: The Two Cultures"](https://projecteuclid.org/euclid.ss/1009213726), _Statistical Science_. (Read article, skim comments and rejoinder)
 - Hand (2006) ["Classifier Technology and the Illusion of Progress"](https://projecteuclid.org/euclid.ss/1149600839), _Statistical Science_. (Read article, skim comments and rejoinder)
 
-### Tuesday, September 8, Predicting geopolitical events (part 1)
+### Tuesday, September 8: Predicting geopolitical events (part 1)
 
 - Watch [pre-read video](https://youtu.be/BSm_sPnI8DI)
 - Read [assignment 1](https://msalganik.github.io/cos597E-soc555_f2020/assignments.html#assignment-1-forecasts-of-the-2020-us-election)
@@ -31,7 +31,7 @@ Reading question (these questions are designed to help you think about the readi
 1. Summarize in one paragraph the research design and main findings for the parts of _Expert Political Judgement_ that you read.
 2. What is the relationship between probability score, variability index, calibration index, and discrimination index? What do these terms capture about the relationship between a set of predictions and outcomes?
 
-### Thursday, September 10, Predicting geopolitical events (part 2)
+### Thursday, September 10: Predicting geopolitical events (part 2)
 
 - Watch [pre-read video](https://youtu.be/wMeXVE4Mdzk)
 - Mandel and Barnes (2014) ["Accuracy of forecasts in strategic intelligence"](https://doi.org/10.1073/pnas.1406138111), _PNAS_.
@@ -44,47 +44,47 @@ Reading question (these questions are designed to help you think about the readi
 3. Tetlock, Mandel and Barnes, and Risi et al. all move beyond simply taking the data as given and measuring accuracy and simply running a “horserace” between approaches (e.g., human vs simple algorithm vs complex algorithm). What is your favorite thing that was learned from each of these analyses?  
 4. Based on the results of these papers, how would you try to measure the difficulty of predicting geopolitical events? Do you notice any empirical patterns from these studies?
 
-### Tuesday, September 15
+### Tuesday, September 15: Computer vision (part 1)
 
-### Thursday, September 17
+### Thursday, September 17: Computer vision (part 2)
 
-### Tuesday, September 22
+### Tuesday, September 22: Armed conflict (part 1)
 
-### Thursday, September 24
+### Thursday, September 24: Armed conflict (part 2)
 
-### Tuesday, September 29
+### Tuesday, September 29: Online ads
 
-### Thursday, October 1
+### Thursday, October 1: Challenges with deploying predictive models in practice
 
-### Tuesday, October 6
+### Tuesday, October 6: Social fads (part 1)
 
-### Thursday, October 8
+### Thursday, October 8: Social fads (part 2)
 
-### Tuesday, October 13, No class for fall break
+### Tuesday, October 13: No class for fall break
 
-### Thursday, October 15
+### Thursday, October 15: Methodological issues
 
-### Tuesday, October 20
+### Tuesday, October 20: Weather, the Lorenz attractor
 
-### Thursday, October 22
+### Thursday, October 22: Weather, empirical verification
 
-### Tuesday, October 27
+### Tuesday, October 27: Healthcare (part 1)
 
-### Thursday, October 29
+### Thursday, October 29: Healthcare (part 2)
 
-### Tuesday, November 3
+### Tuesday, November 3: Disease models
 
-### Thursday, November 5
+### Thursday, November 5: Disease empirics
 
-### Tuesday, November 10
+### Tuesday, November 10: Predictability of life trajectories
 
-### Thursday, November 12
+### Thursday, November 12: Searching for dark matter
 
-### Tuesday, November 17
+### Tuesday, November 17: Privacy and ethics (part 1)
 
-### Thursday, November 19
+### Thursday, November 19: Privacy and ethics (part 2)
 
-### Tuesday, November 24 (last day of class)
+### Tuesday, November 24: To be determined (last day of class)
 
 
 #### Reading that will be assigned
