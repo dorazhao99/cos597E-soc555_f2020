@@ -84,7 +84,7 @@ Reading question (these questions are designed to help you think about the readi
 
 ### Thursday, October 8: Social fads (part 2)
 
-- Goel, Hofman, Lahaie, Pennock, Watts. 2010. ["Predicting consumer behavior with Web search"](https://doi.org/10.1073/pnas.1005962107), _PNAS_.
+- Goel, Hofman, Lahaie, Pennock, Watts (2010) ["Predicting consumer behavior with Web search"](https://doi.org/10.1073/pnas.1005962107), _PNAS_.
 - Cheng, Adamic, Dow, Kleinberg, Leskovec (2014) ["Can cascades be predicted?"](https://doi.org/10.1145/2566486.2567997) _WWW_.
 
 ### Tuesday, October 13: No class for fall break
@@ -95,7 +95,11 @@ Reading question (these questions are designed to help you think about the readi
 
 ### Tuesday, October 20: Weather, the Lorenz attractor
 
-- Coming soon
+- Lorenz (1993) _The Essence of Chaos_.:
+  - Appendix 1: ["The Butterfly Effect"](https://doi-org.ezproxy.princeton.edu/10.1201/9781482288988), p 179-182.
+  - Chapter 1: ["Glimpses of Chaos"](https://doi-org.ezproxy.princeton.edu/10.1201/9781482288988), p 3 - 24.
+  - Chapter 2: ["A Journey into Chaos"](https://doi-org.ezproxy.princeton.edu/10.1201/9781482288988), Read only the section "Chaos in Action", p 25-39.
+  - Chapter 3: ["Our Chaotic Weather"](https://doi-org.ezproxy.princeton.edu/10.1201/9781482288988), p 77-110.
 
 ### Thursday, October 22: Weather, empirical verification
 
