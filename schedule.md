@@ -95,9 +95,9 @@ Reading question (these questions are designed to help you think about the readi
 
 ### Tuesday, October 20: Weather, the Lorenz attractor
 
-- Lorenz (1993) _The Essence of Chaos_.:
+- Lorenz (1993) _The Essence of Chaos_:
   - Appendix 1: ["The Butterfly Effect"](https://doi-org.ezproxy.princeton.edu/10.1201/9781482288988), p 179-182.
-  - Chapter 1: ["Glimpses of Chaos"](https://doi-org.ezproxy.princeton.edu/10.1201/9781482288988), p 3 - 24.
+  - Chapter 1: ["Glimpses of Chaos"](https://doi-org.ezproxy.princeton.edu/10.1201/9781482288988), p 3-24.
   - Chapter 2: ["A Journey into Chaos"](https://doi-org.ezproxy.princeton.edu/10.1201/9781482288988), Read only the section "Chaos in Action", p 25-39.
   - Chapter 3: ["Our Chaotic Weather"](https://doi-org.ezproxy.princeton.edu/10.1201/9781482288988), p 77-110.
 
